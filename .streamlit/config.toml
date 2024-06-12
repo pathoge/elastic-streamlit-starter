@@ -1,0 +1,9 @@
+browser.gatherUsageStats = false
+
+client.toolbarMode = "minimal"
+
+server.runOnSave = true
+
+theme.base="dark"
+theme.primaryColor = '#F04E98'
+theme.textColor = '#FFFFFF' 
