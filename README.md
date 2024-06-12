@@ -1,6 +1,7 @@
 ## Elastic-Themed Streamlit App Base
 
-This repo contains reusable base code/config for an Elastic-themed Streamlit web app. 
+This repo contains reusable base code/config for an Elastic-themed Streamlit web app:
+![screenshot](screenshot.png)
 
 ### Quickstart
 1. Clone this repo
